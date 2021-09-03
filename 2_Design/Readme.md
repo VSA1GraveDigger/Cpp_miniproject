@@ -6,11 +6,11 @@
 
 ### High level behavioral diagram
 
-![HighLevelBehavioralDiagram](https://github.com/The-lana/Cpp_miniproject/blob/main/2_Design/HLBehavioralDiagram.png)
+![HighLevelBehavioralDiagram](https://github.com/The-lana/Cpp_miniproject/blob/main/2_Design/HLBehaviorDiagram.png)
 
 ### Low level behavioral diagram
 
-![LowLevelBehavioralDiagram](https://github.com/The-lana/Cpp_miniproject/blob/main/2_Design/LLBehavioralDiagram.png)
+![LowLevelBehavioralDiagram](https://github.com/The-lana/Cpp_miniproject/blob/main/2_Design/LLBehaviorDiagram.png)
 
 ### High level structural design
 
